@@ -1,0 +1,4 @@
+instabot
+requests-2.24.0
+instabot-0.117.0
+python-dotenv-0.15.0
